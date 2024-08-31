@@ -5,6 +5,10 @@ sleep 0.5
 echo "If your computer has an Intel processor, you've executed the wrong script and the process WILL fail."
 sleep 0.5
 
+# this thing needs brew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# go home, make working directory, and go there
 cd $HOME
 mkdir ipod2
 cd ipod2
