@@ -10,7 +10,7 @@ This script has two distinct versions:
 * QuickPod-ARM is designed for Apple Silicon Macs.
 * QuickPod-X86 is designed for Intel-based Macs.
   
-_You can check which you need by going to the Apple Menu and selecting **About This Mac.** If the first line of information has the word **Chip**, you have an Apple Silicon Mac. If it says Processor, you have an Intel-based Mac._
+_You can check which you need by going to the Apple Menu and selecting **About This Mac.** If the first line of information has the word **Chip**, you have an Apple Silicon Mac. If it says **Processor**, you have an Intel-based Mac._
 
 ----
 
