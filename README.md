@@ -22,7 +22,9 @@ _You can check which you need by going to the Apple Menu and selecting **About T
 
 
 ### Why does this exist?
-This project was created to solve a very specific problem with setting up an instance of [QEMU-iOS](https://github.com/devos50/qemu-ios): ![image](https://github.com/user-attachments/assets/19e044cc-e26b-4f40-9582-2e0fc0aea1a0)
+This project was created to solve a very specific problem with setting up an instance of [QEMU-iOS](https://github.com/devos50/qemu-ios): 
+
+![image](https://github.com/user-attachments/assets/19e044cc-e26b-4f40-9582-2e0fc0aea1a0)
 
 Compiler errors and dependency troubles make setting this up way harder than necessary, and some curious hobbyists have gotten annoyed by this and have given up entirely. This script aims to remedy this.
 
